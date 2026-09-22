@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Antenna -->
+    <path
+        android:pathData="M43,26 L43,36"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeColor="#06B6D4" />
+    <path
+        android:pathData="M43,24 A2,2 0 1,1 43,24.01"
+        android:strokeWidth="3"
+        android:strokeColor="#22D3EE"
+        android:fillColor="#22D3EE" />
+
+    <!-- Radio / Communicator Body -->
+    <path
+        android:pathData="M38,36 h26 a4,4 0 0,1 4,4 v38 a6,6 0 0,1 -6,6 h-22 a6,6 0 0,1 -6,-6 v-38 a4,4 0 0,1 4,-4 z"
+        android:fillColor="#1E293B"
+        android:strokeWidth="2"
+        android:strokeColor="#0EA5E9" />
+
+    <!-- PTT Side Accent / Push Button -->
+    <path
+        android:pathData="M31,44 h3 v16 h-3 a1.5,1.5 0 0,1 -1.5,-1.5 v-13 a1.5,1.5 0 0,1 1.5,-1.5 z"
+        android:fillColor="#F59E0B" />
+
+    <!-- Speaker / Mic Grill Lines -->
+    <path
+        android:pathData="M43,62 h16 M41,66 h20 M43,70 h16 M45,74 h12"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeColor="#38BDF8" />
+
+    <!-- Screen Display Area -->
+    <path
+        android:pathData="M39,42 h24 a2,2 0 0,1 2,2 v14 a2,2 0 0,1 -2,2 h-24 a2,2 0 0,1 -2,-2 v-14 a2,2 0 0,1 2,-2 z"
+        android:fillColor="#091824"
+        android:strokeWidth="1"
+        android:strokeColor="#0284C7" />
+
+    <!-- Audio Waveform in Screen -->
+    <path
+        android:pathData="M42,51 L45,46 L48,54 L51,48 L54,53 L57,47 L60,51"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeColor="#10B981" />
+
+    <!-- Radio Waves Left & Right -->
+    <path
+        android:pathData="M27,48 A12,12 0 0,0 27,64"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeColor="#06B6D4"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M22,43 A18,18 0 0,0 22,69"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeColor="#0284C7"
+        android:fillColor="#00000000" />
+
+    <path
+        android:pathData="M75,48 A12,12 0 0,1 75,64"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeColor="#06B6D4"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M80,43 A18,18 0 0,1 80,69"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeColor="#0284C7"
+        android:fillColor="#00000000" />
+</vector>

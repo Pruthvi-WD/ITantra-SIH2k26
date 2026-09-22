@@ -1,0 +1,6 @@
+{
+  "name": "VoxLink",
+  "description": "Offline multilingual digital walkie-talkie transmitting lightweight semantic text with on-device speech-to-text, device-to-device transport, and text-to-speech synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
